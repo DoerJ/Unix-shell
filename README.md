@@ -2,7 +2,8 @@
 Utilized C to build a Unix shell that accepts user commands and execute each command in a separate process
 
 ## Course
-SFU CMPT 300(Fall 2017): Operating Systems I
+<dt>2017 Fall, SFU</dt>
+<dt>CMPT 300: Operating Systems I</dt>
 
 ## Author
 James(Yuhao) He
