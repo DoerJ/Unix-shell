@@ -28,4 +28,4 @@ The internal command "history" displays the ten most recent commands executed in
 <dt>11 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ls</dt>
 
 ## Customized signal
-Customized the signal handler. Instead of terminating processes, user displays a list of history commands(same as "history" command) by entering ctrl-c.
+The signal handler is customized to enrich the functionalities provided by shell. The shell displays a list of history commands(same as "history" command) by entering ctrl-c instead of terminating processes.
